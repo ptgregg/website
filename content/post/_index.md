@@ -1,5 +1,6 @@
 ---
-title: "Articles"
+title: "Bookclub"
 date: 2017-03-02T12:00:00-05:00
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+In bookclub we each select a different textbook or other non-fiction book to read at the beggining of the year. 
+We aim to read a chapter a week which we then have 15 mins to present at Bookclub Brunch! 

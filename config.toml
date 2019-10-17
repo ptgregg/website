@@ -1,6 +1,6 @@
  
 title = "321 let's have some fun"
-baseURL = "https://example.com"
+baseURL = "https://ptgregg.github.io"
 languageCode = "en-us"
 theme = "ananke"
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -21,7 +21,7 @@ enableRobotsTXT = true
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = "https://twitter.com/parisagregg"
   instagram = ""
   youtube = ""
   github = ""
@@ -30,5 +30,5 @@ enableRobotsTXT = true
   mastodon = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  featured_image = "/images/window_plants.jpg"
   recent_posts_number = 2
